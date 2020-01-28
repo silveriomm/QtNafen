@@ -1,0 +1,10 @@
+Requerido:
+
+Python 2.7.xx
+https://www.python.org/
+
+PySide 1.2.xx
+https://pypi.org/project/PySide/
+
+Medfanen(Emulador multisistema)
+https://mednafen.github.io/releases/
